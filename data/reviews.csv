@@ -1,0 +1,16 @@
+review_id,user_id,product_id,rating,review_text
+R001,U1001,P101,3.0,"Battery drains too fast, but the camera is okay"
+R002,U1002,P102,4.5,"Battery lasts 2 days, great for travel"
+R003,U1003,P103,4.7,"The camera quality is stunning, and I love the phone"
+R004,U1004,P104,3.8,"Battery drains quickly, screen quality is poor"
+R005,U1005,P105,4.2,Fast charging and good performance
+R006,U1006,P106,4.6,Camera performance is average
+R007,U1007,P101,4.0,Good performance but battery could be better
+R008,U1008,P102,4.8,"Great value for money, but camera could be improved"
+R009,U1009,P103,3.9,"The phone is decent, but not enough for heavy use"
+R010,U1010,P104,4.3,"Great camera, but battery doesn't last long"
+R011,U1011,P105,4.1,"Battery lasts all day, performance is decent"
+R012,U1012,P106,4.5,Best display and camera I've had so far
+R013,U1013,P101,4.7,"Battery is decent, but not great"
+R014,U1014,P102,3.5,"The camera needs improvement, but performance is solid"
+R015,U1015,P103,4.2,Good all-around phone with no major issues

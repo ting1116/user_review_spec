@@ -1,0 +1,7 @@
+product_id,name,brand,price,battery,camera,display,description
+P101,Aphone 11,OPPO,9999,4000,12,AMOLED,Affordable phone with good camera and decent battery
+P102,Bphone X,ASUS,10200,5000,16,IPS,"Long battery life, clear camera shots, smooth display"
+P103,Cphone Pro,Samsung,10500,4800,24,OLED,"Great camera and display, suitable for photo lovers"
+P104,Dphone Lite,Xiaomi,4500,3500,8,LCD,Basic phone with good value for money
+P105,Ephone Max,OnePlus,5200,4100,16,AMOLED,"Fast performance, great battery life, decent camera"
+P106,Fphone Ultra,Oppo,6000,4200,20,OLED,"Top-tier display, fast performance, excellent camera"
